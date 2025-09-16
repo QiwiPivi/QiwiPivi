@@ -2,7 +2,6 @@
     <h1>Hello there, I`m QiwiPivi</h1>
   </div>
 
-Here are some ideas to get you started:
 ### About me
 - 🔭 I’m currently working on **web design and website**
 - 🌱 I’m currently learning **JS**
