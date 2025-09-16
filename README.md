@@ -8,3 +8,5 @@
 - 👯 I’m looking to collaborate on **a creative project so I can branch out of my interversion!**
 - 📫 Reach me by [email](mailto:darya.bogatyrewa2003@gmail.com)
 
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"title="js" width="40" height="40"/>&nbsp;
