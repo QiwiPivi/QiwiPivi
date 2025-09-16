@@ -1,5 +1,4 @@
-## Hi there 👋
-  <div id="header" align="center".
+ <div id="header" align="center".
     <h1>Hello there, I`m QiwiPivi</h1>
     <h3>Student</h3>
   </div>
