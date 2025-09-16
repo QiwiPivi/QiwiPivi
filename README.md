@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+  <div id="header" align="center".
+    <h1>Hello there, I`m QiwiPivi</h1>
+    <h3>Student</h3>
+  </div>
 <!--
 **QiwiPivi/QiwiPivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
