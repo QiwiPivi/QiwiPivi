@@ -9,4 +9,5 @@
 - 📫 Reach me by [email](mailto:darya.bogatyrewa2003@gmail.com)
 
 ### Languages and tools
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+<i class="devicon-java-plain"></i> 
