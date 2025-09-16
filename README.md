@@ -1,5 +1,5 @@
  <div id="header" align="center".
-    <h1>**Hello there, I`m QiwiPiwi**</h1>
+    <h1>Hello there, I`m QiwiPiwi</h1>
   </div>
 
 ### About me
