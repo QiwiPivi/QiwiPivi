@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on **web design and website**
 - 🌱 I’m currently learning **JS**
 - 👯 I’m looking to collaborate on **a creative project so I can branch out of my interversion!**
-- 📫 Reach me by [email](mailto:email-address)
+- 📫 Reach me by [email](darya.bogatyrewa2003@gmail.com:email-address)
 
