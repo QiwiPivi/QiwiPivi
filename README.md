@@ -3,7 +3,7 @@
   </div>
 
  <div id="header" align="center".
-    <h1>Welcome to my Portfolio! 🌟</h1>
+    <h2>Welcome to my Portfolio! 🌟</h1>
   </div>
 
 👋 Hey there! I'm QiwiPiwi, but you can call me Daria. I am a software engineering student.
