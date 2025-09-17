@@ -21,5 +21,3 @@
 - ⚡ JavaScript Frameworks: React, Node.js, Next.js.
 - 🌈 Figma, Photoshop
 
-
-
