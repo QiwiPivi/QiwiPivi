@@ -2,11 +2,16 @@
     <h1>Hello there, I`m QiwiPiwi</h1>
   </div>
 
+
+
  <div id="header" align="center".
     <h2>Welcome to my Portfolio! 🌟</h1>
   </div>
 
-👋 Hey there! I'm QiwiPiwi, but you can call me Daria. I am a software engineering student.
+
+
+
+👋 I am a software engineering student who wants to join a website or application development project someday. I'm not indifferent to the gamedev✨
 
 ## 🚀 Skills that Propel Me:
 
